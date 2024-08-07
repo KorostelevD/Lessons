@@ -1,21 +1,12 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
 def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'ПРИВІТ, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Привіт, {name}')
 
-
-# Press the green button in the gutter to run the script.
+def print_t(name):
+    print(f'{name}')
 
 print_hi('мій найкращій друг!')
-print_hi('мій  друг!')
+print_t('будь-ласка')
 
 name = input("Вкажи своє ім'я : ")
 print_hi(name)
 
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
