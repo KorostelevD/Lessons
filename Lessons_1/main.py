@@ -6,11 +6,13 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Привіт, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'ПРИВІТ, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
 
 print_hi('мій найкращій друг!')
+print_hi('мій  друг!')
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
