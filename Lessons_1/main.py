@@ -11,6 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 
-print_hi('мій друг!')
+print_hi('мій найкращій друг!')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
