@@ -14,5 +14,8 @@ def print_hi(name):
 print_hi('мій найкращій друг!')
 print_hi('мій  друг!')
 
+name = input("Вкажи своє ім'я : ")
+print_hi(name)
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
