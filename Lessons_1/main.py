@@ -11,6 +11,6 @@ name = input("Вкажи своє ім'я : ")
 print_hi(name)
 
 if name == "Дмитро":
-    print("Ты молодець!!!")
+    print("Ты молодець!")
 else:
-    print("Супер!!!")
+    print("Супер!")
